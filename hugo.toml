@@ -1,0 +1,9 @@
+baseURL = 'https://vinayakshukla.com'
+languageCode = 'en-us'
+title = "Vinayak's Corner"
+theme = 'hugo-bearblog'
+
+[params]
+  subtitle = "A minimal blog"
+  author = "Vinayak"
+  showReadingTime = true
