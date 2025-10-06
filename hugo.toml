@@ -3,7 +3,22 @@ languageCode = 'en-us'
 title = "Vinayak's Corner"
 theme = 'hugo-bearblog'
 
+# Generate a nice robots.txt for SEO
+enableRobotsTXT = true
+
+# Configure navigation menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Media"
+    url = "/media/"
+    weight = 20
+
 [params]
   subtitle = "A minimal blog"
   author = "Vinayak"
   showReadingTime = true
+  description = "Vinayak's personal blog about movies, thoughts, and life"

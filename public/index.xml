@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Vinayak&#39;s Corner</title>
+    <title>Welcome to Vinayak&#39;s Corner on Vinayak&#39;s Corner</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Vinayak&#39;s Corner</description>
+    <description>Recent content in Welcome to Vinayak&#39;s Corner on Vinayak&#39;s Corner</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Sep 2025 03:49:49 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 07 Oct 2025 04:00:00 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gotg Retrospective</title>
-      <link>http://localhost:1313/media/gotg-retrospective/</link>
-      <pubDate>Thu, 18 Sep 2025 03:49:49 +0530</pubDate>
-      <guid>http://localhost:1313/media/gotg-retrospective/</guid>
-      <description></description>
+      <title>Carpe Diem, Boys</title>
+      <link>http://localhost:1313/media/dead-poets-society/</link>
+      <pubDate>Tue, 07 Oct 2025 04:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/media/dead-poets-society/</guid>
+      <description>&lt;h1 id=&#34;no-matter-what-anybody-tells-you-words-and-ideas-can-change-the-world&#34;&gt;No matter what anybody tells you, words and ideas can change the world.&lt;/h1&gt;&#xA;&lt;p&gt;I finally watched a cult classic I always expected to love, &lt;em&gt;Dead Poets Society&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I have been seeing screencaps and gifs of the movie floating around for years, so I (thought I) knew what I was in for. A straightforward and simple movie romanticizing the idea of beauty, love and romance, in some ways, an embodiment of some of my core beliefs. Boy, oh boy was I wrong (positive).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

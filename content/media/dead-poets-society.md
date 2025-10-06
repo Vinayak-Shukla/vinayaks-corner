@@ -1,5 +1,5 @@
 +++
-date = '2025-01-27T10:30:00+05:30'
+date = '2025-10-07T04:00:00+05:30'
 draft = false
 title = 'Carpe Diem, Boys'
 +++
