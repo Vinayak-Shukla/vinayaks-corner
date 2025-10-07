@@ -1,4 +1,6 @@
 baseURL = 'https://vinayakshukla.com'
+canonifyURLs = true
+relativeURLs = false
 languageCode = 'en-us'
 title = "Vinayak's Corner"
 theme = 'hugo-bearblog'
