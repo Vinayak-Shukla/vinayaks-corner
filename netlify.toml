@@ -7,6 +7,20 @@
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
 
+# Force HTTPS redirects
+[[redirects]]
+  from = "http://vinayakshukla.com/*"
+  to = "https://vinayakshukla.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.vinayakshukla.com/*"
+  to = "https://vinayakshukla.com/:splat"
+  status = 301
+  force = true
+
+# SPA fallback
 [[redirects]]
   from = "/*"
   to = "/index.html"
